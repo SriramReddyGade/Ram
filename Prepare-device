@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ####################################################################################################
-
+#bash -c "$(curl -sL <URL>)"
 # This script is designed to run an edge device.
 # 
 # It does the following:
