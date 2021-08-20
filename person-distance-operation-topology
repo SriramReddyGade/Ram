@@ -87,7 +87,7 @@
             {
               "zone": {
                 "@type": "#Microsoft.VideoAnalyzer.NamedPolygonString",
-                "polygon": "[[0.37,0.43],[0.48,0.42],[0.53,0.56],[0.34,0.57],[0.34,0.46]]",
+                "polygon": "[[0.21,0.84],[0.21,0.97],[0.36,0.98],[0.61,0.62],[0.49,0.48]]",
                 "name": "door"
               },
               "events": [
