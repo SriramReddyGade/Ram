@@ -25,11 +25,11 @@ sudo curl https://lvamedia.blob.core.windows.net/public/camera-300s.mkv --output
 sudo curl https://lvamedia.blob.core.windows.net/public/lots_284.mkv --output /home/localedgeuser/samples/input/lots_284.mkv
 sudo curl https://lvamedia.blob.core.windows.net/public/lots_015.mkv --output /home/localedgeuser/samples/input/lots_015.mkv
 sudo curl https://lvamedia.blob.core.windows.net/public/t2.mkv --output /home/localedgeuser/samples/input/t2.mkv
-sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-05.10-27-03.10-30-01.admin.G329.mkv --output /home/localedgeuser/samples/input/2018-03-05.10-27-03.10-30-01.admin.G329.mkv
-sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-07.16-50-00.16-55-00.school.G419.mkv --output /home/localedgeuser/samples/input/2018-03-07.16-50-00.16-55-00.school.G419.mkv
-sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-05.13-20-00.13-25-00.school.G421.mkv --output /home/localedgeuser/samples/input/2018-03-05.13-20-00.13-25-00.school.G421.mkv
-sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-05.14-10-00.14-15-00.school.G421.mkv --output /home/localedgeuser/samples/input/2018-03-05.14-10-00.14-15-00.school.G421.mkv
-sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-07.16-50-00.16-55-00.school.G421.mkv --output /home/localedgeuser/samples/input/2018-03-07.16-50-00.16-55-00.school.G421.mkv
+sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-05.10-27-03.10-30-01.admin.G329.mkv --output /home/localedgeuser/samples/input/staircase1.mkv
+sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-07.16-50-00.16-55-00.school.G419.mkv --output /home/localedgeuser/samples/input/staircase2.mkv
+sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-05.13-20-00.13-25-00.school.G421.mkv --output /home/localedgeuser/samples/input/Cafetaria2.mkv
+sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-05.14-10-00.14-15-00.school.G421.mkv --output /home/localedgeuser/samples/input/Cafetaria3.mkv
+sudo curl https://lvamedia.blob.core.windows.net/public/2018-03-07.16-50-00.16-55-00.school.G421.mkv --output /home/localedgeuser/samples/input/Cafetaria1.mkv
 
 # give the local user access
 sudo chown -R localedgeuser:localedgegroup /home/localedgeuser/
