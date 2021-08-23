@@ -28,24 +28,6 @@
         "default": "tcp://spatialanalysis:50051"
       },
       {
-        "name": "grpcExtensionAddress",
-        "type": "String",
-        "description": "Address of the gRPC Server",
-        "default": "tcp://avaextension:5001"
-      },
-      {
-        "name": "grpcExtensionUserName",
-        "type": "String",
-        "description": "inferencing endpoint user name.",
-        "default": "dummyUserName"
-      },
-      {
-        "name": "grpcExtensionPassword",
-        "type": "String",
-        "description": "inferencing endpoint password.",
-        "default": "dummyPassword"
-      },
-      {
         "name": "spatialanalysisusername",
         "type": "String",
         "description": "spatialanalysis endpoint username",
